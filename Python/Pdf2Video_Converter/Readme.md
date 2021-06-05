@@ -24,7 +24,6 @@ Depending upon the python version. Make sure that you are running the command fr
 ## Output
 User is asked for a Pdf file and video(mp4) file and Output Video file is stored in the folder.
 
-https://user-images.githubusercontent.com/55010599/119213288-a6902200-badb-11eb-938e-1c74e6e5d7cb.mp4
 
 
 
