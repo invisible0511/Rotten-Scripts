@@ -202,4 +202,3 @@
 - [Youtube_Video_Download](./Youtube_Video_Download)
 - [Zipper](./Zipper)
 - [Zoom Automation](./Zipper)
-- [Linkedin Wish Sender](./Linkedin_Wishes_Sender)
